@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" 1. Async Comprehensions
+""" 1. Async Comprehensions and return them
 """
 
 import asyncio
